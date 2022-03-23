@@ -16,5 +16,5 @@ if __name__ == '__main__':
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 print("hello")
 print("hello 2->1")
-print("try")
+print("try hello")
 print("merge request")
