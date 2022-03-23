@@ -17,3 +17,4 @@ if __name__ == '__main__':
 print("hello")
 print("hello 2->1")
 print("try")
+print("merge request")
